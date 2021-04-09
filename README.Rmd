@@ -3,4 +3,6 @@ title: "README"
 output: html_document
 ---
 
-This repository contains my analysis of the peer reviewed literature on resident killer whale diets. The first r script is killerwhale-starter.R
+This repository contains my analysis of the peer reviewed literature on resident killer whale diets. The first r script is killerwhale-starter.R.
+
+Data for this project are contained in the ```data``` subdirectory and code are contained in the ```R``` directory.
